@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">D_cart</string>
+    <string name="main">D_cart</string>
+    <string name="occassion">Occassion</string>
+    <string name="products">Products</string>
+    <string name="birthdayparty">Birthday Party</string>
+    <string name="wedding">Wedding</string>
+    <string name="bachelor">Bachelor Party</string>
+    <string name="valentine">Valentine Day</string>
+    <string name="baby">BabyShower</string>
+    <string name="balloon">Balloons</string>
+    <string name="led">Led</string>
+    <string name="flower">Flowers</string>
+    <string name="showpiece">ShowPiece</string>
+    <string name="wallhanging">Wallhanging</string>
+    <string name="paperroll">PaperRoll</string>
+    <string name="bannerstring">Banner String</string>
+    <string name="partymask">Party Mask</string>>
+</resources>

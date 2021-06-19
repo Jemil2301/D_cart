@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.i.loginpage">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/dcart"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/main" />
+        <activity
+            android:name=".SecondActivity"
+            android:label="@string/main" />
+        <activity
+            android:name=".RegisterActivity"
+            android:label="@string/main" />
+        <activity android:name=".SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ActivityOccassion"
+            android:label="@string/occassion" />
+        <activity
+            android:name=".ActivityProducts"
+            android:label="@string/products" />
+        <activity
+            android:name=".activity_birthday"
+            android:label="@string/birthdayparty" />
+        <activity
+            android:name=".activity_wedding"
+            android:label="@string/wedding" />
+        <activity
+            android:name=".activity_bachelor"
+            android:label="@string/bachelor" />
+        <activity
+            android:name=".activity_valentine"
+            android:label="@string/valentine" />
+        <activity
+            android:name=".activity_babyshower"
+            android:label="@string/baby" />
+        <activity
+            android:name=".activity_balloon"
+            android:label="@string/balloon" />
+        <activity
+            android:name=".activity_led"
+            android:label="@string/led" />
+        <activity
+            android:name=".activity_flower"
+            android:label="@string/flower" />
+        <activity
+            android:name=".activity_showpiece"
+            android:label="@string/showpiece" />
+        <activity
+            android:name=".activity_wallhanging"
+            android:label="@string/wallhanging" />
+        <activity
+            android:name=".activity_paperroll"
+            android:label="@string/paperroll" />
+        <activity
+            android:name=".activity_bannerstring"
+            android:label="@string/bannerstring" />
+        <activity
+            android:name=".activity_partymask"
+            android:label="@string/partymask" />
+        <activity
+            android:name=".activity_b1"
+            android:label="@string/balloon" />
+        <activity
+            android:name=".activity_b4"
+            android:label="@string/balloon" />
+        <activity
+            android:name=".activity_b7"
+            android:label="@string/balloon" />
+        <activity
+            android:name=".activity_b10"
+            android:label="@string/balloon" />
+        <activity
+            android:name=".activity_l1"
+            android:label="@string/led" />
+        <activity
+            android:name=".activity_l4"
+            android:label="@string/led" />
+        <activity
+            android:name=".activity_l7"
+            android:label="@string/led" />
+        <activity
+            android:name=".activity_l10"
+            android:label="@string/led" />
+        <activity
+            android:name=".activity_f1"
+            android:label="@string/flower" />
+        <activity
+            android:name=".activity_f4"
+            android:label="@string/flower" />
+        <activity
+            android:name=".activity_f7"
+            android:label="@string/flower" />
+        <activity
+            android:name=".activity_s1"
+            android:label="@string/showpiece" />
+        <activity
+            android:name=".activity_s4"
+            android:label="@string/showpiece" />
+        <activity
+            android:name=".activity_w1"
+            android:label="@string/wallhanging" />
+        <activity
+            android:name=".activity_w4"
+            android:label="@string/wallhanging" />
+        <activity
+            android:name=".activity_p1"
+            android:label="@string/paperroll" />
+        <activity
+            android:name=".activity_p4"
+            android:label="@string/paperroll" />
+        <activity
+            android:name=".activity_ba1"
+            android:label="@string/bannerstring" />
+        <activity
+            android:name=".activity_ba4"
+            android:label="@string/bannerstring" />
+        <activity
+            android:name=".activity_m1"
+            android:label="@string/partymask" />
+        <activity
+            android:name=".activity_m4"
+            android:label="@string/partymask" />
+        <activity android:name=".buynow" />
+        <activity android:name=".Booknow" />
+        <activity android:name=".Payment"></activity>
+    </application>
+
+</manifest>
